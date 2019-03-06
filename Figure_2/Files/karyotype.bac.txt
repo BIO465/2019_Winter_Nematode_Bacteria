@@ -1,0 +1,12 @@
+chr - chr1 1 0 5418256 black
+band chr1 band1 band1 0 500000 white
+band chr1 band1 band1 500000 1000000 black
+band chr1 band2 band2 1000000 1500000 white
+band chr1 band3 band3 1500000 2000000 black
+band chr1 band4 band4 2000000 2500000 white
+band chr1 band5 band5 2500000 3000000 black
+band chr1 band6 band6 3000000 3500000 white
+band chr1 band7 band7 3500000 4000000 black
+band chr1 band8 band8 4000000 4500000 white
+band chr1 band9 band9 4500000 5000000 black
+band chr1 band9 band9 5000000 5418256 white
